@@ -1,0 +1,20 @@
+.button {
+  padding: 10px 15px;
+  background-color: var(--color-primary);
+  color: var(--color-primary-foreground);
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: var(--color-primary);
+  filter: brightness(0.9);
+}
+
+.button:active {
+  background-color: var(--color-primary);
+  filter: brightness(0.8);
+}

@@ -1,0 +1,1 @@
+export { Canvas, type CanvasRef } from './Canvas';

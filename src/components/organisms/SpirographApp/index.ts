@@ -1,0 +1,1 @@
+export { SpirographApp } from './SpirographApp';

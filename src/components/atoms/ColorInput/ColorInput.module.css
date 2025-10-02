@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.label {
+  font-weight: bold;
+  color: var(--color-foreground);
+}
+
+.input {
+  border: none;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.container {
+  background-color: var(--color-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.canvas {
+  display: block;
+  background-color: var(--color-card);
+}
